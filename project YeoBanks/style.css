@@ -1,0 +1,179 @@
+
+/* couleur du nav */
+.coul{
+    background-color: rgb(66, 255, 183) !important;
+} 
+/* image generale */
+header{
+    background: url(img/fondec.png);
+    background-size: cover;
+    height: 768px;
+    max-width: 100%;
+    
+}
+
+/* le logo */
+.container a.logo{
+    font-size: 30px;
+}
+.container a.logo:hover{
+    color: white !important;
+}
+/* le menu */
+.menu ul li a{
+    font-size: 20px;
+    color: white !important;
+}
+.menu ul li a:hover{
+    font-size: 21px;
+    
+}
+/* connextion / inscription */
+.connec .btn1  a{
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+}
+.connec .btn1  a:hover{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+}
+.connec .btn2 button{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 255, 221);
+    border: none;
+    border-radius: 10px;
+}
+.connec .btn2 button:hover{
+    background-color: rgb(0, 255, 255);
+}
+.connec .btn2 button a{
+    text-decoration: none;
+    color: rgb(0, 255, 242);
+    font-weight: 900;
+}
+.connec .btn2 button a:hover{
+    color: rgb(255, 255, 255);
+}
+.btnpr button {
+    width: 200px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    margin-left: 120px;
+    color: aliceblue;
+}
+.btnpr button:hover{
+    background-color: white;
+    color: black;
+    border: black solid 2px ;
+}
+/* texte de l'image generale */
+.text1{ 
+    width: 550px;
+    margin-top: 150px;
+    margin-right:100px  !important;
+}
+.text1 h1{
+    font-family:Impact, 'Arial Narrow Bold';
+}
+
+.sect2{
+    margin-top: 70px;
+    font-family:Impact, Haettenschweiler, 'Arial ';
+}
+.sect3{
+    font-family:Impact, Haettenschweiler, 'Arial ';
+}
+/* separation du bloc partner */
+.partner{
+    margin-top:100px ;
+}
+/* les differetnes sections du partner */
+.sect4{
+    background-color: aqua;
+    color: white;
+}
+.sect4 .img{
+    margin: 70px;
+}
+.sect5{
+    background-color: white;
+
+}
+.sect6{
+    background-color: rgb(38, 255, 165);
+}
+/* la section du services clients */
+.apven{
+    margin-top: 150px;
+}
+.apven1 h5{
+    margin-top: 5px;
+    background-color: aqua;
+    color: white;
+}
+.apven1 h5:hover{
+    background-color: rgba(7, 241, 241, 0.61);
+
+}
+.apven1 img{
+    margin-left: 90px;
+}
+.apven1 h3{
+    font-family: Impact, Haettenschweiler, 'Arial ';
+    background-color:  rgb(38, 255, 165);
+    color: white
+}
+.apven .imgap img{
+    margin-top: 100px;
+}
+footer{
+    margin-top: 100px;
+    width: 100%;
+    background-color:rgb(38, 255, 165) ;
+
+}
+.bout button{
+    background-color: aqua;
+    margin-left: 200px;
+    border-radius: 10px;
+    height: 50px;
+}
+.bout button:hover{
+    background-color: rgb(255, 255, 255);
+}
+.bout button p{
+    color: rgb(255, 255, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.bout button p:hover{
+    color: aqua;
+}
+.mail{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+.plus button{
+    background-color: white;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+}
+.plus button:hover{
+    background-color: aqua;
+}
+.plus button p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aqua;
+}
+.plus button p:hover{
+    color: white;
+}
+
+
+
+
+
+
+
+
